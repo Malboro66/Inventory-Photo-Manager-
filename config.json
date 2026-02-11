@@ -1,21 +1,24 @@
 {
   "schema_version": "6.0",
   "general": {
-    "last_directory": "D:\\PROJETO WW1\\MEDALHAS ALEMAS",
+    "last_directory": "C:\\Users\\PC\\Desktop\\FOTOS PCS\\FOTOS RENOMEADAS 1\\BICO GP - 0433171100",
     "cache_ttl_seconds": 300,
     "auto_save": true,
     "max_cache_entries": 10
   },
   "ui": {
     "window_width": 1100,
-    "window_height": 800,
-    "window_x": 701,
-    "window_y": 68,
+    "window_height": 749,
+    "window_x": 20,
+    "window_y": 46,
     "max_columns": 3,
     "theme": "clam"
   },
   "search": {
     "history": [
+      "0",
+      "043",
+      "045",
       "iron",
       "bre",
       "ba",
@@ -24,7 +27,7 @@
       "PERSONAGENS"
     ],
     "max_history": 50,
-    "last_search": "iron"
+    "last_search": "0"
   },
   "performance": {
     "max_workers": null,
